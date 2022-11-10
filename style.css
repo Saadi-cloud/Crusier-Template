@@ -1,0 +1,59 @@
+.h3{
+    font-weight: 400;
+    font-size: 1.10rem!important;
+}
+.containerr{
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.containerrs{
+    padding-left: 420px;
+    padding-right: 420px;
+}
+@media screen and (max-width: 1200px) {
+  .containerrs {
+    padding-left: 250px;
+    padding-right: 250px;
+  }
+}
+@media screen and (max-width: 992px) {
+  .containerrs {
+    padding-left: 150px;
+    padding-right: 150px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .containerrs {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+}
+@media screen and (max-width: 430px) {
+  .containerrs {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .containerr {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+.service-img .badges {
+    position: relative;
+    top: 0;
+    right: -14px;
+    padding: 5px 8px;
+    font-size: .85rem;
+    border-radius: 13px;
+    background-color: #e64d26;
+}
+.head{
+    font-size: 0.9rem;
+    font-weight: 500;
+    width: 17%;
+}
+.header-color{
+  background: #343a40;
+}
